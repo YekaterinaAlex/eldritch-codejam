@@ -1,0 +1,24 @@
+{
+  "name": "eldritch-codejam",
+  "version": "1.0.0",
+  "description": "## Описание проекта В рамках данного CodeJam необходимо будет создать небольшое приложение-хелпер для настольной игры \"Древний Ужас\"",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass --watch sass/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YekaterinaAlex/eldritch-codejam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YekaterinaAlex/eldritch-codejam/issues"
+  },
+  "homepage": "https://github.com/YekaterinaAlex/eldritch-codejam#readme",
+  "devDependencies": {
+    "sass": "^1.105.0"
+  }
+}
